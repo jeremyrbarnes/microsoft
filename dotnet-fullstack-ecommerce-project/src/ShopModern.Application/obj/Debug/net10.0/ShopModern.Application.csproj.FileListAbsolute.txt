@@ -1,0 +1,16 @@
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/bin/Debug/net10.0/ShopModern.Application.deps.json
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/bin/Debug/net10.0/ShopModern.Application.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/bin/Debug/net10.0/ShopModern.Application.pdb
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/bin/Debug/net10.0/ShopModern.Domain.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/bin/Debug/net10.0/ShopModern.Domain.pdb
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.csproj.AssemblyReference.cache
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.AssemblyInfo.cs
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.sourcelink.json
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopMode.899EB823.Up2Date
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/refint/ShopModern.Application.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ShopModern.Application.pdb
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/obj/Debug/net10.0/ref/ShopModern.Application.dll

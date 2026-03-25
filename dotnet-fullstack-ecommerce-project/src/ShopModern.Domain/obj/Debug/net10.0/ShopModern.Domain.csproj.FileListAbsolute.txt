@@ -1,0 +1,12 @@
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/bin/Debug/net10.0/ShopModern.Domain.deps.json
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/bin/Debug/net10.0/ShopModern.Domain.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/bin/Debug/net10.0/ShopModern.Domain.pdb
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.AssemblyInfo.cs
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.sourcelink.json
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/refint/ShopModern.Domain.dll
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ShopModern.Domain.pdb
+/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/obj/Debug/net10.0/ref/ShopModern.Domain.dll
