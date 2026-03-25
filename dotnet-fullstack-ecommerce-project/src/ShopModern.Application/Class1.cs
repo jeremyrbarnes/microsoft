@@ -1,4 +1,4 @@
-﻿namespace ShopModern.Application;
+namespace ShopModern.Application;
 
 public class Class1
 {

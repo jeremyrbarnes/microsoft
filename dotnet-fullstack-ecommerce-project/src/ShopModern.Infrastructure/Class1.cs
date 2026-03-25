@@ -1,4 +1,4 @@
-﻿namespace ShopModern.Infrastructure;
+namespace ShopModern.Infrastructure;
 
 public class Class1
 {

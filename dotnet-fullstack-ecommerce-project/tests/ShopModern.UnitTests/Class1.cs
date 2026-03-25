@@ -1,4 +1,4 @@
-﻿namespace ShopModern.UnitTests;
+namespace ShopModern.UnitTests;
 
 public class Class1
 {
