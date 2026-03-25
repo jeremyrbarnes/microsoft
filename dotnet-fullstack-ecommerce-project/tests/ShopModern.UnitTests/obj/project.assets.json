@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "ShopModern.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "ShopModern.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopModern.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopModern.Application.dll": {}
+        }
+      },
+      "ShopModern.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ShopModern.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopModern.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ShopModern.Application/1.0.0": {
+      "type": "project",
+      "path": "../../src/ShopModern.Application/ShopModern.Application.csproj",
+      "msbuildProject": "../../src/ShopModern.Application/ShopModern.Application.csproj"
+    },
+    "ShopModern.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../src/ShopModern.Domain/ShopModern.Domain.csproj",
+      "msbuildProject": "../../src/ShopModern.Domain/ShopModern.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "ShopModern.Application >= 1.0.0",
+      "ShopModern.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/jeremybarnes/.nuget/packages/": {}
@@ -13,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.UnitTests/ShopModern.UnitTests.csproj",
+      "projectUniqueName": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/tests/ShopModern.UnitTests/ShopModern.UnitTests.csproj",
       "projectName": "ShopModern.UnitTests",
-      "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.UnitTests/ShopModern.UnitTests.csproj",
+      "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/tests/ShopModern.UnitTests/ShopModern.UnitTests.csproj",
       "packagesPath": "/Users/jeremybarnes/.nuget/packages/",
-      "outputPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.UnitTests/obj/",
+      "outputPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/tests/ShopModern.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeremybarnes/.nuget/NuGet/NuGet.Config"
@@ -31,7 +69,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj": {
+              "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj"
+            },
+            "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/ShopModern.Domain.csproj": {
+              "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Domain/ShopModern.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

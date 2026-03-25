@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ShopModern.Domain\ShopModern.Domain.csproj" />
-    <ProjectReference Include="..\ShopModern.Application\ShopModern.Application.csproj" />
+    <ProjectReference Include="..\..\src\ShopModern.Domain\ShopModern.Domain.csproj" />
+    <ProjectReference Include="..\..\src\ShopModern.Application\ShopModern.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
