@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6WGns9CibU=",
+  "dgSpecHash": "rVTZ780OstI=",
   "success": true,
-  "projectFilePath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
+  "projectFilePath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

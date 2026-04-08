@@ -65,19 +65,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jeremybarnes/.nuget/packages/": {}
+    "/Users/jb/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
+      "projectUniqueName": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
       "projectName": "ShopModern.Api",
-      "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
-      "packagesPath": "/Users/jeremybarnes/.nuget/packages/",
-      "outputPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/obj/",
+      "projectPath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/ShopModern.Api.csproj",
+      "packagesPath": "/Users/jb/.nuget/packages/",
+      "outputPath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jeremybarnes/.nuget/NuGet/NuGet.Config"
+        "/Users/jb/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -89,11 +89,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj": {
-              "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj"
+            "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj": {
+              "projectPath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj"
             },
-            "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Infrastructure/ShopModern.Infrastructure.csproj": {
-              "projectPath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Infrastructure/ShopModern.Infrastructure.csproj"
+            "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Infrastructure/ShopModern.Infrastructure.csproj": {
+              "projectPath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Infrastructure/ShopModern.Infrastructure.csproj"
             }
           }
         }
@@ -109,7 +109,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -130,7 +130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

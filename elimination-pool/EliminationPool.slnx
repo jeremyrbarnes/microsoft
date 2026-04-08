@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/EliminationPool.Domain/EliminationPool.Domain.csproj" />
+  <Project Path="src/EliminationPool.Api/EliminationPool.Api.csproj" />
+  <Project Path="src/EliminationPool.Infrastructure/EliminationPool.Infrastructure.csproj" />
+</Solution>

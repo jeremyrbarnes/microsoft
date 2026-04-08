@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WMmBDH5Qrs=",
+  "dgSpecHash": "PbLyT84ZWMI=",
   "success": true,
-  "projectFilePath": "/Users/jeremybarnes/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj",
+  "projectFilePath": "/Users/jb/Documents/repos/microsoft/dotnet-fullstack-ecommerce-project/src/ShopModern.Application/ShopModern.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
