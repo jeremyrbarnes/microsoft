@@ -1,0 +1,12 @@
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/bin/Debug/net10.0/Infrastructure.deps.json
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/bin/Debug/net10.0/Infrastructure.dll
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/bin/Debug/net10.0/Infrastructure.pdb
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfo.cs
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.sourcelink.json
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.dll
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/refint/Infrastructure.dll
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/Infrastructure.pdb
+/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Infrastructure/obj/Debug/net10.0/ref/Infrastructure.dll
